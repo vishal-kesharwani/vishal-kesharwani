@@ -47,7 +47,7 @@ Check out my repositories for more! 🚀
 
 ## 📫 How to Reach Me  
 - **Email**: [vishal.kesharwani@example.com](mailto:vishal.kesharwani@example.com)  
-- **LinkedIn**: [Vishal Kesharwani](https://linkedin.com/in/vishal-kesharwani)  
+- **LinkedIn**: [Vishal Kesharwani](https://www.linkedin.com/in/vishal-kesharwani-76708025b)  
 - **GitHub**: [@vishal-kesharwani](https://github.com/vishal-kesharwani)  
 
 ---
