@@ -7,7 +7,8 @@ Welcome to my GitHub profile, where I share my passion for innovation, coding, a
 🌟 I’m a 21-year-old computer engineering student at MITAOE, aspiring to become a Software Development Engineer (SDE).  
 
 💡 I have interest in:  
-- Cloud Computing ☁️  
+- Cloud Computing ☁️
+- DevOps 
 - Blockchain Technology ⛓️  
 - Full-stack Development 🖥️  
 
