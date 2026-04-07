@@ -96,7 +96,7 @@ I’m open to collaborating on projects involving:
 # 📫 Connect With Me
 
 💼 LinkedIn
-[https://www.linkedin.com/in/vishal-kesharwani-76708025b](https://www.linkedin.com/in/vishal-kesharwani02)
+[https://www.linkedin.com/in/vishal-kesharwani02](https://www.linkedin.com/in/vishal-kesharwani02)
 
 💻 GitHub
 [https://github.com/vishal-kesharwani](https://github.com/vishal-kesharwani)
