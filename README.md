@@ -92,11 +92,13 @@
 
 ---
 
+
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal-kesharwani&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kesharwani&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishal-kesharwani&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kesharwani&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -104,22 +106,32 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kesharwani&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=vishal-kesharwani&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📊 Contribution Activity
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-kesharwani&theme=tokyo-night" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-kesharwani&theme=github-dark&hide_border=true" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal-kesharwani&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
 
 ---
 
 ## 🏅 Certifications
 
 - AWS Certified Cloud Practitioner (CLF-C02) – **1000/1000**
+<a href="https://www.credly.com/badges/f3558204-39b1-43f0-8caa-813873989955/public_url">
 - Cloud Computing & DevOps Enthusiast
 
 ---
@@ -160,7 +172,7 @@ Interested in:
 
 📧 **Email:** vishalkes1378@gmail.com
 
-🌐 **Portfolio:** https://portfolio-link-here.vercel.app
+🌐 **Portfolio:** https://vishalkesarwani.in
 
 ---
 
