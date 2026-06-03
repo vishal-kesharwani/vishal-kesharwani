@@ -1,63 +1,35 @@
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vishal Kesharwani
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;AWS+Certified+Cloud+Practitioner+(1000%2F1000);SIH+2024+Grand+Finalist;Building+Scalable+Backend+Systems;Spring+Boot+%7C+Node.js+%7C+AWS" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vishal-kesharwani02">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:vishalkes1378@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/vishal-kesharwani">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal-kesharwani&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer+Intern+%40+SteepGraph;AWS+Certified+Cloud+Practitioner+(1000%2F1000);SIH+2024+Grand+Finalist;Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Node.js+%7C+AWS" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Final Year Computer Engineering Student at MIT Academy of Engineering (MITAOE)
+🎓 Final Year Computer Engineering Student at **MIT Academy of Engineering (MITAOE)**
 
-💼 Backend Developer Intern at SteepGraph Systems
+💼 Backend Developer Intern at **SteepGraph Systems**
 
-☁️ AWS Certified Cloud Practitioner (1000/1000)
+☁️ AWS Certified Cloud Practitioner (**1000/1000**)
 
-🏆 Smart India Hackathon 2024 Grand Finalist
+💻 Passionate about **Backend Development, Cloud Computing, System Design, and Scalable Software Architecture**
 
-💻 Passionate about Backend Development, Cloud Computing, Distributed Systems, and Scalable Software Architecture
-
----
-
-## 💼 Experience
-
-### Backend Developer Intern | SteepGraph Systems
-
-* Developing enterprise-grade ETL migration solutions
-* Working with Angular, Spring Boot, PostgreSQL, and REST APIs
-* Resolving production defects and implementing enhancements
-* Optimizing validation, database operations, and backend workflows
+🏆 SIH 2024 Grand Finalist | E-Summit Ideathon Winner | Cavista Hackathon Runner-Up | Datathon'25 Runner-Up
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-🥇 AWS Certified Cloud Practitioner — Perfect Score (1000/1000)
-
-🏅 Smart India Hackathon 2024 Grand Finalist
-
-🥈 Datathon'25 Runner-Up
-
-🥈 Cavista Hackathon Runner-Up
-
-🏆 E-Summit Ideathon Winner
+- 🚀 Backend Developer Intern @ SteepGraph
+- ☁️ AWS Certified Cloud Practitioner (1000/1000)
+- 🏅 Smart India Hackathon 2024 Grand Finalist
+- 🥈 Datathon'25 Runner-Up
+- 🥈 Cavista Tech Hackathon Runner-Up
+- 🏆 E-Summit Ideathon Winner
+- 🔧 Built production-grade ETL, Cloud, and AI-powered applications
 
 ---
 
@@ -66,77 +38,67 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" />
 </p>
 
-### Backend
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,git" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 ReportEase
+### 📊 ReportEase – Annual Report Generation Platform
 
-Academic Annual Report Generation Platform
+- MERN Stack + AWS + Docker
+- Role-Based Access Control (RBAC)
+- Automated CI/CD Deployment Pipeline
+- Multi-user Academic Reporting System
 
-* MERN Stack + AWS + Docker
-* RBAC Implementation
-* CI/CD Deployment Pipeline
-* Multi-User Reporting System
+### 🩻 AI-Based Bone Age Assessment System
 
-### 🩻 AI-Based Bone Age Assessment
+- TensorFlow + EfficientNet
+- Medical X-Ray Image Analysis
+- Ensemble Deep Learning Architecture
+- Advanced Image Preprocessing Pipeline
 
-* TensorFlow + EfficientNet
-* Medical X-Ray Analysis
-* Ensemble Deep Learning Architecture
-* Automated Image Processing Pipeline
+### 🛡️ Secure Defense Framework – NGO Donation Portal
 
-### 🛡️ Secure NGO Donation Portal
-
-* Zero Trust Security Architecture
-* CSRF Protection + RBAC
-* Security Testing & Validation
-* Audit Logging Framework
+- Zero Trust Security Architecture
+- RBAC + CSRF Protection
+- Attack Simulation & Security Validation
+- Audit Logging & Secure Authentication
 
 ---
 
-## 🎯 Current Focus
-
-* Spring Boot Microservices
-* Distributed Systems
-* AWS Cloud Architecture
-* System Design
-* PostgreSQL Optimization
-
----
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishal-kesharwani&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kesharwani&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishal-kesharwani&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kesharwani&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -144,34 +106,81 @@ Academic Annual Report Generation Platform
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishal-kesharwani&theme=github-dark-blue&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=vishal-kesharwani&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishal-kesharwani/vishal-kesharwani/output/github-contribution-grid-snake-dark.svg" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-kesharwani&theme=github-dark&hide_border=true" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal-kesharwani&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+
+---
+
+## 🏅 Certifications
+<a href="https://www.credly.com/badges/f3558204-39b1-43f0-8caa-813873989955/public_url">
+- AWS Certified Cloud Practitioner (CLF-C02) – **1000/1000**
+- Cloud Computing & DevOps Enthusiast
+
+---
+
+## 🎯 2026 Goals
+
+- Master Spring Boot Microservices
+- Learn Advanced System Design
+- Earn AWS Solutions Architect Associate
+- Contribute to Open Source
+- Secure a Backend / SDE Role
+
+---
+
+## 🤝 Let's Collaborate
+
+Interested in:
+
+- Backend Engineering
+- Cloud Native Applications
+- DevOps Automation
+- AI-Powered Solutions
+- Open Source Projects
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/vishal-kesharwani02
-* GitHub: https://github.com/vishal-kesharwani
-* Portfolio: https://vishalkesarwani.in
-* Email: [vishalkes1378@gmail.com](mailto:vishalkes1378@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/vishal-kesharwani02">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/vishal-kesharwani">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+📧 **Email:** vishalkes1378@gmail.com
+
+🌐 **Portfolio:** https://vishalkesarwani.in
 
 ---
 
-## 💡 Engineering Philosophy
+## ⚡ Fun Fact
 
-> Build solutions that are scalable, maintainable, and solve real business problems.
+> I enjoy optimizing APIs, reducing database calls, automating deployments, and solving performance bottlenecks more than building fancy UIs.
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile ⭐</b>
+  <b>Thanks for visiting my profile! ⭐</b>
 </p>
