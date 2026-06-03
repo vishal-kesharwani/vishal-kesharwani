@@ -1,80 +1,115 @@
-
----
-
+```md
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vishal Kesharwani
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Development+Engineer;Cloud+%7C+DevOps+%7C+Blockchain+Enthusiast;Full+Stack+Developer;Building+Scalable+Software+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer+Intern+%40+SteepGraph;AWS+Certified+Cloud+Practitioner+(1000%2F1000);SIH+2024+Grand+Finalist;Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Node.js+%7C+AWS" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 **Computer Engineering Student at MITAOE**
-💻 Passionate about **Software Development and Scalable Systems**
-🌍 Interested in **Cloud Computing, DevOps, Blockchain, and Full Stack Development**
+🎓 Final Year Computer Engineering Student at **MIT Academy of Engineering (MITAOE)**
 
-I enjoy building systems that are **efficient, scalable, and impactful**, and I’m always exploring new technologies to improve my development skills.
+💼 Backend Developer Intern at **SteepGraph Systems**
 
----
+☁️ AWS Certified Cloud Practitioner (**1000/1000**)
 
-# 🧠 Currently Learning
+💻 Passionate about **Backend Development, Cloud Computing, System Design, and Scalable Software Architecture**
 
-* ☁️ Advanced **Cloud Architecture**
-* ⚙️ **DevOps & CI/CD pipelines**
-* ⛓️ **Blockchain implementation**
-* 🧩 **System Design fundamentals**
+🏆 SIH 2024 Grand Finalist | E-Summit Ideathon Winner | Cavista Hackathon Runner-Up | Datathon'25 Runner-Up
 
 ---
 
-# 💻 Tech Stack
+## 🏆 Highlights
 
-### 👨‍💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
----
-
-### 🌐 Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+- 🚀 Backend Developer Intern @ SteepGraph
+- ☁️ AWS Certified Cloud Practitioner (1000/1000)
+- 🏅 Smart India Hackathon 2024 Grand Finalist
+- 🥈 Datathon'25 Runner-Up
+- 🥈 Cavista Tech Hackathon Runner-Up
+- 🏆 E-Summit Ideathon Winner
+- 🔧 Built production-grade ETL, Cloud, and AI-powered applications
 
 ---
 
-### ☁️ Cloud & DevOps
+## 💻 Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,git" />
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 📊 ReportEase – Annual Report Generation Platform
+
+- MERN Stack + AWS + Docker
+- Role-Based Access Control (RBAC)
+- Automated CI/CD Deployment Pipeline
+- Multi-user Academic Reporting System
+
+### 🩻 AI-Based Bone Age Assessment System
+
+- TensorFlow + EfficientNet
+- Medical X-Ray Image Analysis
+- Ensemble Deep Learning Architecture
+- Advanced Image Preprocessing Pipeline
+
+### 🛡️ Secure Defense Framework – NGO Donation Portal
+
+- Zero Trust Security Architecture
+- RBAC + CSRF Protection
+- Attack Simulation & Security Validation
+- Audit Logging & Secure Authentication
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal-kesharwani&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kesharwani&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal-kesharwani&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kesharwani&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kesharwani&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kesharwani&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-kesharwani&theme=tokyo-night" />
@@ -82,38 +117,60 @@ I enjoy building systems that are **efficient, scalable, and impactful**, and I�
 
 ---
 
-# 🤝 Open to Collaboration
+## 🏅 Certifications
 
-I’m open to collaborating on projects involving:
-
-* 🌐 Full Stack Applications
-* ☁️ Cloud Native Systems
-* ⛓️ Blockchain Solutions
-* 🤖 AI / ML Applications
+- AWS Certified Cloud Practitioner (CLF-C02) – **1000/1000**
+- Cloud Computing & DevOps Enthusiast
 
 ---
 
-# 📫 Connect With Me
+## 🎯 2026 Goals
 
-💼 LinkedIn
-[https://www.linkedin.com/in/vishal-kesharwani02](https://www.linkedin.com/in/vishal-kesharwani02)
-
-💻 GitHub
-[https://github.com/vishal-kesharwani](https://github.com/vishal-kesharwani)
-
-📧 Email
-[vishalkes1378@gmail.com](mailto:vishalkes1378@gmail.com)
+- Master Spring Boot Microservices
+- Learn Advanced System Design
+- Earn AWS Solutions Architect Associate
+- Contribute to Open Source
+- Secure a Backend / SDE Role
 
 ---
 
-# ⚡ Fun Fact
+## 🤝 Let's Collaborate
 
-🐔 **The hen came before the egg.**
-But let’s debate it over coffee ☕.
+Interested in:
+
+- Backend Engineering
+- Cloud Native Applications
+- DevOps Automation
+- AI-Powered Solutions
+- Open Source Projects
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 📫 Connect With Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/vishal-kesharwani02">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-----
+<a href="https://github.com/vishal-kesharwani">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+📧 **Email:** vishalkes1378@gmail.com
+
+🌐 **Portfolio:** https://portfolio-link-here.vercel.app
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy optimizing APIs, reducing database calls, automating deployments, and solving performance bottlenecks more than building fancy UIs.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
+```
